@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio01\bin\Debug\ejercicio01.exe.config
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio01\bin\Debug\ejercicio01.exe
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio01\bin\Debug\ejercicio01.pdb
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio01\obj\Debug\ejercicio01.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio01\obj\Debug\ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio01\obj\Debug\ejercicio01.exe
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio01\obj\Debug\ejercicio01.pdb

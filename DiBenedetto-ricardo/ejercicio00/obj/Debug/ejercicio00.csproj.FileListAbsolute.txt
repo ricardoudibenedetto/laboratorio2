@@ -1,0 +1,14 @@
+D:\VisualStudio\DiBenedetto-ricardo\ejercicio00\bin\Debug\ejercicio00.exe.config
+D:\VisualStudio\DiBenedetto-ricardo\ejercicio00\bin\Debug\ejercicio00.exe
+D:\VisualStudio\DiBenedetto-ricardo\ejercicio00\bin\Debug\ejercicio00.pdb
+D:\VisualStudio\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.csprojAssemblyReference.cache
+D:\VisualStudio\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.csproj.CoreCompileInputs.cache
+D:\VisualStudio\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.exe
+D:\VisualStudio\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.pdb
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio00\bin\Debug\ejercicio00.exe.config
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio00\bin\Debug\ejercicio00.exe
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio00\bin\Debug\ejercicio00.pdb
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.exe
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio00\obj\Debug\ejercicio00.pdb

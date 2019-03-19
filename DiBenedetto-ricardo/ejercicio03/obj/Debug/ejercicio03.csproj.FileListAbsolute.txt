@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio03\bin\Debug\ejercicio03.exe.config
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio03\bin\Debug\ejercicio03.exe
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio03\bin\Debug\ejercicio03.pdb
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio03\obj\Debug\ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio03\obj\Debug\ejercicio03.exe
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio03\obj\Debug\ejercicio03.pdb
+C:\Users\user\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio03\obj\Debug\ejercicio03.csprojAssemblyReference.cache
