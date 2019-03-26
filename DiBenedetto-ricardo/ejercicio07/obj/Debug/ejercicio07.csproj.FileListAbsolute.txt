@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\De
 C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\Debug\ejercicio07.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\Debug\ejercicio07.exe
 C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\Debug\ejercicio07.pdb
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio07\bin\Debug\ejercicio07.exe.config
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio07\bin\Debug\ejercicio07.exe
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio07\bin\Debug\ejercicio07.pdb
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\Debug\ejercicio07.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\Debug\ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\Debug\ejercicio07.exe
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio07\obj\Debug\ejercicio07.pdb

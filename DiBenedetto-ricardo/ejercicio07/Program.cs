@@ -17,15 +17,39 @@ namespace ejercicio07
       Console.WriteLine("fecha actual : {0}");
       DateTime fechaActual = DateTime.Now;
       
-      DateTime fechaNacimiento = new DateTime(1994, 11, 9);
-      años = fechaActual.Year - fechaNacimiento.Year;
-        totalDays = (años * 365) - (365 - fechaNacimiento.DayOfYear);
-      for(int i=fechaNacimiento.Year; i<=fechaActual.Year; i++ )
+      DateTime fechaNacimiento = new DateTime(2000, 12, 31);
+      for (int i = fechaNacimiento.Year+1; i< fechaActual.Year; i++)
       {
-        
+        if(!esBisiesto(i))
+        {
+          totalDays += 365;
+        }
+        else
+        {
+          totalDays += 366;
+        }
       }
-      Console.WriteLine(365 - fechaNacimiento.DayOfYear);
+      if(esBisiesto(fechaNacimiento.Year))
+      {
+        totalDays += (366 - fechaNacimiento.DayOfYear) + fechaActual.DayOfYear;
+      }
+      else
+      {
+        totalDays += (365 - fechaNacimiento.DayOfYear) + fechaActual.DayOfYear;
+      }
+
+      Console.WriteLine(fechaNacimiento.DayOfYear);
       Console.ReadKey();
+    }
+
+    static bool esBisiesto(int numeroUsuario)
+    {
+      bool flag = false;
+      if (numeroUsuario % 4 == 0 || (numeroUsuario % 100 == 0 && numeroUsuario % 400 == 0))
+      {
+        flag = true;
+      }
+      return flag;
     }
   }
 }
