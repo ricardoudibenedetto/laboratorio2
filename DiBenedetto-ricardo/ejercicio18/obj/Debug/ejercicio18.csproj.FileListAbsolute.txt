@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\bin\Debug\ejercicio18.exe.config
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\bin\Debug\ejercicio18.exe
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\bin\Debug\ejercicio18.pdb
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.exe
+C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.pdb
+C:\Users\Richard\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\bin\Debug\ejercicio18.exe.config
+C:\Users\Richard\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\bin\Debug\ejercicio18.exe
+C:\Users\Richard\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\bin\Debug\ejercicio18.pdb
+C:\Users\Richard\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.exe
+C:\Users\Richard\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio18\obj\Debug\ejercicio18.pdb
