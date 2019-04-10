@@ -280,7 +280,10 @@ namespace WindowsFormsClase06
             this.Controls.Add(this.btnContinuar);
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.txtNombre);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pagina de registro";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.grbSexo.ResumeLayout(false);
