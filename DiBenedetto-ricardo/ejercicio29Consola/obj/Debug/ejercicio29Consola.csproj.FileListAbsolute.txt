@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\bin\Debug\ejercicio29Consola.exe.config
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\bin\Debug\ejercicio29Consola.exe
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\bin\Debug\ejercicio29Consola.pdb
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\bin\Debug\EntidadesEjercicio29.dll
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\bin\Debug\EntidadesEjercicio29.pdb
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\obj\Debug\ejercicio29Consola.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\obj\Debug\ejercicio29Consola.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\obj\Debug\ejercicio29Consola.csproj.CopyComplete
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\obj\Debug\ejercicio29Consola.exe
+C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\ejercicio29Consola\obj\Debug\ejercicio29Consola.pdb
