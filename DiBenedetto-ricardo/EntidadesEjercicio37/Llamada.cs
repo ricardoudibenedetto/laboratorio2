@@ -62,7 +62,7 @@ namespace EntidadesEjercicio37
       return sb.ToString();
     }
 
-    public int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
+    public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
     {
       int ValorDeRetorno = 0;
       if(llamada1.duracion < llamada2.duracion)
@@ -76,5 +76,6 @@ namespace EntidadesEjercicio37
       return ValorDeRetorno;
     }
     #endregion
+    
   }
 }
