@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio39\bin\Debug\ejercicio39.exe.config
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio39\bin\Debug\ejercicio39.exe
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio39\bin\Debug\ejercicio39.pdb
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio39\obj\Debug\ejercicio39.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio39\obj\Debug\ejercicio39.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio39\obj\Debug\ejercicio39.exe
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio39\obj\Debug\ejercicio39.pdb

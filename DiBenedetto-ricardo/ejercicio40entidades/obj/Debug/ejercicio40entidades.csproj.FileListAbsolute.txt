@@ -1,0 +1,2 @@
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio40entidades\obj\Debug\ejercicio40entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\lab2\laboratorio2\DiBenedetto-ricardo\ejercicio40entidades\obj\Debug\ejercicio40entidades.csproj.CoreCompileInputs.cache
