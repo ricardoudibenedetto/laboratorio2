@@ -36,8 +36,7 @@ namespace PracticaParcialUno
    public override string Mostrar()
     {
       StringBuilder sb = new StringBuilder();
-      sb.AppendLine(base.Mostrar());
-      sb.AppendLine("edad: " + this.Edad.ToString());
+      sb.Append(base.Mostrar());
       sb.AppendLine("años de experiencia: " + this.AñosExperiencia);
       return sb.ToString();
     }

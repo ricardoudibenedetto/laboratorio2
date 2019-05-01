@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\o
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\obj\Debug\PracticaParcialUno.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\obj\Debug\PracticaParcialUno.dll
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\obj\Debug\PracticaParcialUno.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\bin\Debug\PracticaParcialUno.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\bin\Debug\PracticaParcialUno.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\obj\Debug\PracticaParcialUno.csprojAssemblyReference.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\obj\Debug\PracticaParcialUno.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\obj\Debug\PracticaParcialUno.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialUno\obj\Debug\PracticaParcialUno.pdb

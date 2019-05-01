@@ -1,0 +1,13 @@
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.csprojAssemblyReference.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.Form1.resources
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.Properties.Resources.resources
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.csproj.GenerateResource.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\bin\Debug\PracticaPrimerParcialWF.exe.config
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\bin\Debug\PracticaPrimerParcialWF.exe
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\bin\Debug\PracticaPrimerParcialWF.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\bin\Debug\PracticaParcialUno.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\bin\Debug\PracticaParcialUno.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.csproj.CopyComplete
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.exe
+C:\Users\user\Documents\facultad\c#\laboratorio2\DiBenedetto-ricardo\PracticaPrimerParcialWF\obj\Debug\PracticaPrimerParcialWF.pdb

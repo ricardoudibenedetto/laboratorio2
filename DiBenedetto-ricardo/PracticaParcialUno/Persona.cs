@@ -10,7 +10,7 @@ namespace PracticaParcialUno
   {
     private string apellido;
     private int dni;
-    private int edad;
+        private int edad;
     private string nombre;
     public string Apellido
     {
