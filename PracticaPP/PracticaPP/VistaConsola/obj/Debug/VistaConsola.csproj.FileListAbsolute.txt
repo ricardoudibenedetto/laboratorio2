@@ -1,0 +1,10 @@
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\VistaConsola\obj\Debug\VistaConsola.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\Entidades\bin\Debug\Entidades.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\Entidades\obj\Debug\Entidades.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\Entidades\obj\Debug\Entidades.pdb
