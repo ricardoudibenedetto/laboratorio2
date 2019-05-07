@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\DiBenedetto_Ricardo_2d\20190507-DiBenedetto.Ricardo\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\DiBenedetto_Ricardo_2d\20190507-DiBenedetto.Ricardo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\DiBenedetto_Ricardo_2d\20190507-DiBenedetto.Ricardo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\DiBenedetto_Ricardo_2d\20190507-DiBenedetto.Ricardo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\DiBenedetto_Ricardo_2d\20190507-DiBenedetto.Ricardo\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\DiBenedetto_Ricardo_2d\20190507-DiBenedetto.Ricardo\Entidades\obj\Debug\Entidades.pdb

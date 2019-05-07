@@ -61,7 +61,7 @@ namespace EntidadesEjercicio37
       sb.AppendLine($"Numero Destino :{this.NroDestino}");
       return sb.ToString();
     }
-
+    
     public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
     {
       int ValorDeRetorno = 0;
