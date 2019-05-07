@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Enti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaConsola", "VistaConsola\VistaConsola.csproj", "{51A05D03-F899-4F4A-8CE2-07CAA8D76DED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesMascotas", "EntidadesMascotas\EntidadesMascotas.csproj", "{D1A05FF9-503F-4CF6-87A1-CFE210225845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMascotas", "ConsoleMascotas\ConsoleMascotas.csproj", "{6C33502D-6F16-48F7-A16E-3A9B40A2AB14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{51A05D03-F899-4F4A-8CE2-07CAA8D76DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51A05D03-F899-4F4A-8CE2-07CAA8D76DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51A05D03-F899-4F4A-8CE2-07CAA8D76DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A05FF9-503F-4CF6-87A1-CFE210225845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A05FF9-503F-4CF6-87A1-CFE210225845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A05FF9-503F-4CF6-87A1-CFE210225845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A05FF9-503F-4CF6-87A1-CFE210225845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C33502D-6F16-48F7-A16E-3A9B40A2AB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C33502D-6F16-48F7-A16E-3A9B40A2AB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C33502D-6F16-48F7-A16E-3A9B40A2AB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C33502D-6F16-48F7-A16E-3A9B40A2AB14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

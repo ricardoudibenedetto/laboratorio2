@@ -1,0 +1,6 @@
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\EntidadesMascotas\bin\Debug\EntidadesMascotas.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\EntidadesMascotas\bin\Debug\EntidadesMascotas.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\EntidadesMascotas\obj\Debug\EntidadesMascotas.csprojAssemblyReference.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\EntidadesMascotas\obj\Debug\EntidadesMascotas.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\EntidadesMascotas\obj\Debug\EntidadesMascotas.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\EntidadesMascotas\obj\Debug\EntidadesMascotas.pdb

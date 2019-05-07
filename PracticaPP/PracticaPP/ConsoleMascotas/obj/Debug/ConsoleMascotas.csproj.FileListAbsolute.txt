@@ -1,0 +1,10 @@
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\bin\Debug\ConsoleMascotas.exe.config
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\bin\Debug\ConsoleMascotas.exe
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\bin\Debug\ConsoleMascotas.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\bin\Debug\EntidadesMascotas.dll
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\bin\Debug\EntidadesMascotas.pdb
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\obj\Debug\ConsoleMascotas.csprojAssemblyReference.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\obj\Debug\ConsoleMascotas.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\obj\Debug\ConsoleMascotas.csproj.CopyComplete
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\obj\Debug\ConsoleMascotas.exe
+C:\Users\user\Documents\facultad\c#\laboratorio2\PracticaPP\PracticaPP\ConsoleMascotas\obj\Debug\ConsoleMascotas.pdb
