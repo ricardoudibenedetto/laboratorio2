@@ -55,7 +55,7 @@ namespace ejercicio40entidades
       }
     }
 
-    public string Mostrar()
+    protected override string Mostrar()
     {
       StringBuilder sb = new StringBuilder();
       sb.AppendLine(base.Mostrar());
@@ -63,6 +63,16 @@ namespace ejercicio40entidades
       sb.AppendLine("El costo de la llamada es :" + this.CostoLlamada);
       sb.AppendLine("-------------");
       return sb.ToString();
+    }
+
+    public override string ToString()
+    {
+      return this.Mostrar();
+    }
+
+    public override bool Equals(object obj)
+    {
+      return obj is Provincial;
     }
   }
 }

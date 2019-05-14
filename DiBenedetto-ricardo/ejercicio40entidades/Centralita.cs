@@ -103,14 +103,45 @@ namespace ejercicio40entidades
       {
         if(item is Local)
         {
-          sb.AppendLine(((Local)item).Mostrar());
+          sb.AppendLine(((Local)item).ToString());
         }
         else if (item is Provincial)
         {
-          sb.AppendLine(((Provincial)item).Mostrar());
+          sb.AppendLine(((Provincial)item).ToString());
         }
       }
       return sb.ToString();
+    }
+
+    private void AgregarLlamada(Llamada nuevaLlamada)
+    {
+      if(nuevaLlamada is Llamada)
+      this.listaDeLlamadas.Add(nuevaLlamada);
+    }
+    public static bool operator ==(Centralita c , Llamada l)
+    {
+      //foreach(Llamada item in c.listaDeLlamadas)
+      //{
+      //  if(item == l)
+      //  {
+      //    return true;
+      //  }
+      //}
+      //return false;
+      
+      return c.listaDeLlamadas.Any(x => x == l);
+    }
+    public static bool operator !=(Centralita c, Llamada l)
+    {
+      return !(c == l);
+    }
+    public static Centralita operator +(Centralita c , Llamada nuevaLlamada)
+    {
+      if(c != nuevaLlamada)
+      {
+        c.AgregarLlamada(nuevaLlamada);
+      }
+      return c;
     }
   }
 }

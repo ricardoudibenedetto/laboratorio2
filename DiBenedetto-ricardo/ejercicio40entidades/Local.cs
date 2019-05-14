@@ -33,7 +33,7 @@ namespace ejercicio40entidades
       }
     }
 
-    public string Mostrar()
+    protected override string Mostrar()
     {
       StringBuilder sb = new StringBuilder();
       sb.AppendLine(base.Mostrar());
@@ -42,5 +42,14 @@ namespace ejercicio40entidades
       return sb.ToString();
     }
 
+    public override string ToString()
+    {
+      return this.Mostrar();
+    }
+
+    public override bool Equals(object obj)
+    {
+      return obj is Local ;
+    }
   }
 }

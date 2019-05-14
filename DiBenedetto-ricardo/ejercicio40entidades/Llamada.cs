@@ -76,7 +76,21 @@ namespace ejercicio40entidades
       }
       return ValorDeRetorno;
     }
-    #endregion
-    
-  }
+
+    public static bool operator ==(Llamada l1 ,Llamada l2)
+    {
+      if(l1.Equals(l2) && l1.NroDestino == l2.NroDestino && l1.NroOrigen == l2.NroOrigen)
+      {
+        return true;
+      }
+      return false;
+    }
+
+    public static bool operator !=(Llamada l1, Llamada l2)
+    {
+      return !(l1 == l2);
+    }
+      #endregion
+
+    }
 }
