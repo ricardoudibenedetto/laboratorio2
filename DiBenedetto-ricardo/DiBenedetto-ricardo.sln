@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio42entidades", "eje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio42consola", "ejercicio42consola\ejercicio42consola.csproj", "{BA9EA8C8-32AE-42D9-9BAD-C61AD99508E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio36entidades", "ejercicio36entidades\ejercicio36entidades.csproj", "{7C21C891-7B1F-4BDB-B9B1-FA1A1D2E3A4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{BA9EA8C8-32AE-42D9-9BAD-C61AD99508E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA9EA8C8-32AE-42D9-9BAD-C61AD99508E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA9EA8C8-32AE-42D9-9BAD-C61AD99508E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C21C891-7B1F-4BDB-B9B1-FA1A1D2E3A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C21C891-7B1F-4BDB-B9B1-FA1A1D2E3A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C21C891-7B1F-4BDB-B9B1-FA1A1D2E3A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C21C891-7B1F-4BDB-B9B1-FA1A1D2E3A4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
