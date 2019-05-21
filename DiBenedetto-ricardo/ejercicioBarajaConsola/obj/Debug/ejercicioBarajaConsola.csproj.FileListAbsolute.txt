@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\bin\Debug\ejercicioBarajaConsola.exe.config
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\bin\Debug\ejercicioBarajaConsola.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\bin\Debug\ejercicioBarajaConsola.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\bin\Debug\ejercicioBarajaentidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\bin\Debug\ejercicioBarajaentidades.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\obj\Debug\ejercicioBarajaConsola.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\obj\Debug\ejercicioBarajaConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\obj\Debug\ejercicioBarajaConsola.csproj.CopyComplete
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\obj\Debug\ejercicioBarajaConsola.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaConsola\obj\Debug\ejercicioBarajaConsola.pdb

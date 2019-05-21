@@ -16,6 +16,30 @@ namespace ejercicio36entidades
       get { return this.nombreClase; }
     }
     public string NombreMetodo
-    { get {return this. } }
+    { get { return this.nombreMetodo; } }
+
+    public CompetenciaNoDisponibleException(string mensaje,string clase,string metodo):this(mensaje ,clase , metodo, null)
+    {
+
+    }
+    public CompetenciaNoDisponibleException(string mensaje, string clase, string metodo, Exception innerException) : base(mensaje, innerException)
+    {
+      this.nombreClase = clase;
+      this.nombreMetodo = metodo;
+
+    }
+    public override string ToString()
+    {
+      StringBuilder sb = new StringBuilder();
+      sb.AppendLine($"Excepcion en el metodo {this.NombreMetodo} de la clase {this.NombreClase} ");
+      sb.AppendLine(this.Message);
+      Exception ex = this.InnerException;
+      while (ex!=null)
+      {
+        sb.Append($"{this.InnerException}\t");
+        ex = ex.InnerException; 
+      }
+      return sb.ToString();
+    }
   }
 }

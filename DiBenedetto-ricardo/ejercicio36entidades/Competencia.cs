@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejercicio36entidades
 {
-  class Competencia
+  public class Competencia
   {
     public enum TipoCompetencia
     {
@@ -64,7 +64,8 @@ namespace ejercicio36entidades
       {
         return true;
       }
-      return false;
+      throw new CompetenciaNoDisponibleException("El vehículo no corresponde a la competencia", "competencia", "sobrecarga ==");
+      
     }
     public static bool operator !=(Competencia c, VehiculoDeCarrera a)
     {
@@ -74,6 +75,8 @@ namespace ejercicio36entidades
     public static bool operator +(Competencia c, VehiculoDeCarrera a)
     {
       bool flag= false;
+      try
+      {
       if(c==a)
       {
         foreach (VehiculoDeCarrera item in c.competidores)
@@ -90,7 +93,19 @@ namespace ejercicio36entidades
         return true;  
       }
       return false;
-      
+
+      }
+      catch (CompetenciaNoDisponibleException e)
+      {
+
+        throw new Exception("Competencia incorrecta", e);
+      }
+      catch (Exception e)
+      {
+
+        throw;
+      }
+
     }
     public static bool operator -(Competencia c, VehiculoDeCarrera a)
     {

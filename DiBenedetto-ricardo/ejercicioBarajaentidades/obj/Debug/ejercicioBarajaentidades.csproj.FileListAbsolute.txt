@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaentidades\bin\Debug\ejercicioBarajaentidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaentidades\bin\Debug\ejercicioBarajaentidades.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaentidades\obj\Debug\ejercicioBarajaentidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaentidades\obj\Debug\ejercicioBarajaentidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaentidades\obj\Debug\ejercicioBarajaentidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioBarajaentidades\obj\Debug\ejercicioBarajaentidades.pdb
