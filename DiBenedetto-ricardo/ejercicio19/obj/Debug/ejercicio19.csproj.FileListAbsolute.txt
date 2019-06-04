@@ -5,3 +5,10 @@ C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debu
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debug\ejercicio19.exe
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debug\ejercicio19.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio19\bin\Debug\ejercicio19.exe.config
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio19\bin\Debug\ejercicio19.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio19\bin\Debug\ejercicio19.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debug\ejercicio19.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debug\ejercicio19.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio19\obj\Debug\ejercicio19.pdb

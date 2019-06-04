@@ -8,3 +8,13 @@ C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialConso
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.csproj.CopyComplete
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.exe
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\bin\Debug\PracticaParcialConsola.exe.config
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\bin\Debug\PracticaParcialConsola.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\bin\Debug\PracticaParcialConsola.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\bin\Debug\PracticaParcialUno.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\bin\Debug\PracticaParcialUno.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.csproj.CopyComplete
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\PracticaParcialConsola\obj\Debug\PracticaParcialConsola.pdb

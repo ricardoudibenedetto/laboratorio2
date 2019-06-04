@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio31\bin\Debug\EntidadesEjercicio31.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio31\bin\Debug\EntidadesEjercicio31.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio31\obj\Debug\EntidadesEjercicio31.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio31\obj\Debug\EntidadesEjercicio31.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio31\obj\Debug\EntidadesEjercicio31.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio31\obj\Debug\EntidadesEjercicio31.pdb

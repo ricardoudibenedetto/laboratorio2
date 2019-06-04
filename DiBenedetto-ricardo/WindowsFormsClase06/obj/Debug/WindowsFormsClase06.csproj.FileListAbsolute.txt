@@ -8,3 +8,13 @@ C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.exe
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.pdb
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.Form1.resources
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\bin\Debug\WindowsFormsClase06.exe.config
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\bin\Debug\WindowsFormsClase06.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\bin\Debug\WindowsFormsClase06.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.Form1.resources
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.Properties.Resources.resources
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\WindowsFormsClase06\obj\Debug\WindowsFormsClase06.pdb

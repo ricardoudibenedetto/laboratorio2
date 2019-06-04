@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\obj\Debug\ejercicio42entidades.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\obj\Debug\ejercicio42entidades.dll
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\obj\Debug\ejercicio42entidades.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\bin\Debug\ejercicio42entidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\bin\Debug\ejercicio42entidades.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\obj\Debug\ejercicio42entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\obj\Debug\ejercicio42entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\obj\Debug\ejercicio42entidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42entidades\obj\Debug\ejercicio42entidades.pdb

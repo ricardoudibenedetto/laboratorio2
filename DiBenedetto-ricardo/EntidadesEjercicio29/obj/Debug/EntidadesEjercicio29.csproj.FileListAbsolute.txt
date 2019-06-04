@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio
 C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\obj\Debug\EntidadesEjercicio29.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\obj\Debug\EntidadesEjercicio29.dll
 C:\Users\alumno\Desktop\labo\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\obj\Debug\EntidadesEjercicio29.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\bin\Debug\EntidadesEjercicio29.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\bin\Debug\EntidadesEjercicio29.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\obj\Debug\EntidadesEjercicio29.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\obj\Debug\EntidadesEjercicio29.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\obj\Debug\EntidadesEjercicio29.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\EntidadesEjercicio29\obj\Debug\EntidadesEjercicio29.pdb

@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio48entidades\bin\Debug\ejercicio48entidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio48entidades\bin\Debug\ejercicio48entidades.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio48entidades\obj\Debug\ejercicio48entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio48entidades\obj\Debug\ejercicio48entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio48entidades\obj\Debug\ejercicio48entidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio48entidades\obj\Debug\ejercicio48entidades.pdb

@@ -8,3 +8,13 @@ C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\o
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.csproj.CopyComplete
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.exe
 C:\Users\alumno\Desktop\c#\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\bin\Debug\ejercicio42consola.exe.config
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\bin\Debug\ejercicio42consola.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\bin\Debug\ejercicio42consola.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\bin\Debug\ejercicio42entidades.dll
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\bin\Debug\ejercicio42entidades.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.csproj.CopyComplete
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicio42consola\obj\Debug\ejercicio42consola.pdb
