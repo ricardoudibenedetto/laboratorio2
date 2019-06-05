@@ -8,8 +8,8 @@ namespace ejercicio48entidades
 {
   public class Factura : Documento
   {
-    public Factura(int numero)
-      :base(numero)
+    public Factura(int numero = 0)
+      : base(numero)
     {
 
     }
