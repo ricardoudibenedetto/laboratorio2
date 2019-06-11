@@ -31,7 +31,6 @@ namespace ejercicioPruebaSQLWF
       //por defecto es text
       comando.CommandType = System.Data.CommandType.Text;
 
-
       // vincula el comando con la conexion 
       comando.Connection = conexion;
 
@@ -47,7 +46,7 @@ namespace ejercicioPruebaSQLWF
       // tabla generada 
       SqlDataReader oDr = comando.ExecuteReader();
 
-
+      
       //mientras dr pueda leer lee proxima fila y se pare en ella , el primero posiciona en el  uno y tira false cuadno esta en la ultima
       while(oDr.Read())
       {
@@ -69,7 +68,7 @@ namespace ejercicioPruebaSQLWF
     private void btnGuardar_Click(object sender, EventArgs e)
     {
       string consulta;
-      consulta = $"insert into Localidares (ProvinciaID,Nombre) value ({((Provincia)cboProvincias.SelectedItem).Id}, '{this.txtNuevaLocalidad.Text}')";
+      consulta = $"insert into Localidares (ProvinciaID,Nombre) values ('{((Provincia)cboProvincias.SelectedItem).Id}', '{this.txtNuevaLocalidad.Text}')";
       // terminar haciendo conexion y agregando la consulta al text
         
     }

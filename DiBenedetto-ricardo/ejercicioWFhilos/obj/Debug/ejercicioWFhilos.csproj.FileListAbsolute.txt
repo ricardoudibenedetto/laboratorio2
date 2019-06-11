@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\bin\Debug\ejercicioWFhilos.exe.config
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\bin\Debug\ejercicioWFhilos.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\bin\Debug\ejercicioWFhilos.pdb
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\obj\Debug\ejercicioWFhilos.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\obj\Debug\ejercicioWFhilos.Form1.resources
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\obj\Debug\ejercicioWFhilos.Properties.Resources.resources
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\obj\Debug\ejercicioWFhilos.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\obj\Debug\ejercicioWFhilos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\obj\Debug\ejercicioWFhilos.exe
+C:\Users\alumno\Desktop\ccc\laboratorio2\DiBenedetto-ricardo\ejercicioWFhilos\obj\Debug\ejercicioWFhilos.pdb

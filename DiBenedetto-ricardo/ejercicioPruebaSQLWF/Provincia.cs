@@ -11,8 +11,11 @@ namespace ejercicioPruebaSQLWF
     private string nombre;
     private int id;
 
-    public string Nombre { get { return this.nombre; } set { this.nombre = value; } }
-
+    //public string Nombre { get { return this.nombre; } set { this.nombre = value; } }
+    public string Nombre {
+      get=>this.nombre;
+      set=>this.nombre=value;
+    }
     public int Id { get { return this.id; } set { this.id = value; } }
 
     public Provincia(int id ,string nombre)
