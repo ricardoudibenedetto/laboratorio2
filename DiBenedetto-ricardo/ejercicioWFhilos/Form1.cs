@@ -33,5 +33,10 @@ namespace ejercicioWFhilos
       count++;
 
     }
+
+    private void Form1_Load(object sender, EventArgs e)
+    {
+
+    }
   }
 }
